@@ -28,7 +28,7 @@
 
 ###
 
-<p <br>- 🔭 Computer Science student at the Federal University of Uberlândia <br>- 📚 <br>- ⚡ </p>
+<p <br>- 📚 Computer Science student at the Federal University of Uberlândia <br></p>
 
 ###
 
